@@ -1,3 +1,3 @@
 # gesture-recognition
 
-## Repositorio backup de mudanças
+Reconhecedor de gestos
